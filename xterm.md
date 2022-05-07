@@ -1,3 +1,12 @@
+有可能是 X Window 下面最老牌的 terminal emulator ，第一眼看非常的简陋，
+在 .Xdefaults 中简单配置之后变成可用状态。
+
+好处是到处都有，资源占用少。并且 ssh 到远程主机时的兼容性也很好（比起 kitty,
+uxrterm 之类）。
+
+我喜欢使用到处都有的工具，并且尽可能不要修改工具的原始配置，这样兼容性比较强，
+不会为了做一件事情还需要依赖一堆的程序。
+
 
 XTERM(1)                            X Window System                            XTERM(1)
 
