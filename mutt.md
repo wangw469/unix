@@ -1,3 +1,5 @@
+T: 给符合 pattern 的邮件加上 tag
+
 MUTT(1)                               User Manuals                              MUTT(1)
 
 NAME
